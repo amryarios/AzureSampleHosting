@@ -28,7 +28,7 @@
  <?php
     $host = "dicodingamryserver.database.windows.net";
     $user = "dicoding";
-    $pass = "082113026322Amri!";
+    $pass = "082113026332Amri!";
     $db = "create-table";
 
     try {
